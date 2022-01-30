@@ -14,7 +14,6 @@ I'm H**ze** Y**u**an**,an ordinary programmer.
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
-- 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
@@ -22,15 +21,12 @@ I'm H**ze** Y**u**an**,an ordinary programmer.
 - 💻 I work using:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![Mysql](https://img.shields.io/badge/-Mysql-black?style=plastic&logo=mysql)
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
  
 - ⚙️ I also use and work: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
   ![Go](https://img.shields.io/badge/-Go-black?style=plastic&logo=go) 
   
