@@ -6,7 +6,7 @@
 
 
 
-## Hey, ouuan here! :wave:
+## Hey, Hzeyuan here! :wave:
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=hzeyuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
