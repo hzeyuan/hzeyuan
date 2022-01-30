@@ -10,7 +10,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=hzeyuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
-I'm H**ze** Y**u**an**,an ordinary programmer.
+I'm H**ze** Yuan,an ordinary programmer.
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
