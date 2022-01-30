@@ -2,8 +2,10 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lxxyx/count.svg" />
+  <img src="https://profile-counter.glitch.me/hzeyuan/count.svg" />
 </p>
+
+![](https://github-readme-stats.vercel.app/api?username=hzeyuan)
 
 ### Hi there, I'm hzeyuan, You can call me Jake 👋
 
