@@ -43,9 +43,11 @@ I'm H**ze** Yuan,an ordinary programmer.
 
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ![](https://raw.githubusercontent.com/aboutmydreams/aboutmydreams/output/github-contribution-grid-snake.svg) 
