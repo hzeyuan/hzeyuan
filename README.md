@@ -33,11 +33,9 @@ I'm H**ze** Yuan,an ordinary programmer.
 
 ---
 
-#### :sparkles: [My followers](src/getTopFollowers.py)
 
 
 
----
 
 
 
